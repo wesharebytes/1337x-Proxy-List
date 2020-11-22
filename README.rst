@@ -3,10 +3,6 @@
 ##################
 
 1337x proxies are web proxies specifically designed to connect to 1337x torrents or other torrent sites. 1337x Torrents was closed several times and had to move to avoid legal problems.
-
-*********
-1337x Proxy Site List 2020 (100% Working)
-*********
 Here is a list of the 1337x torrent proxy sites. We tested all of these 1337x proxy sites and all registered sites were working at the time of writing.
 
 - https://1337x.unblockninja.com
