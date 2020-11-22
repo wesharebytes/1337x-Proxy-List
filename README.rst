@@ -13,8 +13,6 @@ What is 1337x Torrents?
 *********
 1337x is also one of the top torrent sites hit due to tight controls by government agencies. It has been blocked by ISPs and government agencies in several countries including the UK and Australia.
 
-i![](<https://github.com/wesharebytes/1337x-Proxy-List/blob/master/1337x_proxy_unblock.jpg>)
-
 Like 1337, many alternatives have emerged with which you can unlock 1337x. You can still use `1337x proxy <https://wesharebytes.com/1337x-review-proxy-list-2020/>`_ sites and mirror sites to access the website even if it is geoblocked. There are several alternatives to 1337x and other torrent sites for torrenting files.
 
 If you're having trouble, here is a list of the 1337x proxy sites you can use. The 1337x proxy sites listed below were hand selected and were working at the time of this writing.
