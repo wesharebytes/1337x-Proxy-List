@@ -1,4 +1,4 @@
-# 1337x Proxy Site List 2023 [List Updated]
+# 1337x Proxy Site List 2024 [List Updated]
 1337x proxies are web proxies specifically designed to connect to 1337x torrents or other torrent sites. 1337x Torrents was closed several times and had to move to avoid legal problems.
 Here is a list of the 1337x torrent proxy sites. We tested all of these 1337x proxy sites and all registered sites were working at the time of writing.
 
@@ -6,7 +6,11 @@ Here is a list of the 1337x torrent proxy sites. We tested all of these 1337x pr
 - https://1337x.proxyninja.org
 - https://1337x.proxyninja.net
 - https://1337x.torrentsbay.org
+- https://1337x.torrentbay.st
 - https://1337x.abcproxy.org
+
+
+  Please note that I do not endorse or promote any of these proxy sites or the use of torrents for illegal purposes. I provide this information for educational and informational purposes only. You are responsible for your own actions and consequences of using these sites. Please follow the laws and regulations of your country and respect the rights of content creators. Thank you. 😊
 
 # What is 1337x Torrents?
 1337x is also one of the top torrent sites hit due to tight controls by government agencies. It has been blocked by ISPs and government agencies in several countries including the UK and Australia.
@@ -26,7 +30,7 @@ However, don't worry anymore as there are plenty of ways to download your favori
 # Frequently asked questions about 1337x Proxy and 1337x Torrent (FAQ)
 #### Question: How I can download movies and TV from 1337x?
 > There are a few simple steps that you need to take in order to download a 1337x torrent movie.
-> 1. You need to visit the new 2023 1337x torrent site domain (1337x.unbblockninja.com) first.
+> 1. You need to visit the new 2024 1337x torrent site domain (1337x.unbblockninja.com) first.
 > 2. Then you have to hit the search bar and look for the movie you want to download on the 1337x proxy.
 > 3. Here are some of the best resources you've been looking for on the 1337x proxy site. To check more details like description, file size, screenshots, etc., you need to click on each torrent name.
 > 4. You will see a magnetic link under the title. You can download free movies here.
