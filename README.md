@@ -25,7 +25,10 @@ If you're having trouble, here is a list of the 1337x proxy sites you can use. T
 # Why are 1337x torrent sites blocked?
 The main reason the torrent site is blocked is the copyright of some materials that users download. The government can lock themselves in while 1337x is being accessed depending on where you live. This may be due to copyright laws being enforced by an ISP. The ISP's blocking of access can also be because they know you are using significant bandwidth to download the content you want. The most frustrating thing to experience is that it sometimes becomes inaccessible or disappears.
 
-However, don't worry anymore as there are plenty of ways to download your favorite torrent file. One of them can be through a VPN. VPN plays a huge role in changing your current location and helping you access the site prohibited in your country. Try to spoof the location that gives permission to access the site. Tor can also be another way to navigate this website. Tor is communication software that allows the user to navigate these websites. The main function of Tor is to work on the internet nodes and redirect internet traffic between the nodes. Tor performs this redirection to hide the user's identity along with their location. Tor also plays a role in espionage prevention and traffic analysis.
+However, worry no more as there are many ways to download your favorite torrent file. One of them could be using a VPN. VPN plays a huge role in changing your current location and helps you access a site that is banned in your country. Try to spoof a location that gives permission to access the site. Tor may also be another way to navigate this website.
+
+Tor is communications software that allows the user to navigate these websites. Tor's main function is to work with Internet nodes and redirect Internet traffic between nodes. Tor performs this redirect to hide the user's identity along with their location. Tor also plays a role in spying prevention and traffic analysis.
+
 
 # Frequently asked questions about 1337x Proxy and 1337x Torrent (FAQ)
 #### Question: How I can download movies and TV from 1337x?
