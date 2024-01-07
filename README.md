@@ -10,7 +10,8 @@ Here is a list of the 1337x torrent proxy sites. We tested all of these 1337x pr
 - https://1337x.abcproxy.org
 
 
-  Please note that I do not endorse or promote any of these proxy sites or the use of torrents for illegal purposes. I provide this information for educational and informational purposes only. You are responsible for your own actions and consequences of using these sites. Please follow the laws and regulations of your country and respect the rights of content creators. Thank you. 😊
+
+Please note that I do not endorse or promote any of these proxy sites or the use of torrents for illegal purposes. I provide this information for educational and informational purposes only. You are responsible for your own actions and consequences of using these sites. Please follow the laws and regulations of your country and respect the rights of content creators. Thank you. 😊
 
 # What is 1337x Torrents?
 1337x is also one of the top torrent sites hit due to tight controls by government agencies. It has been blocked by ISPs and government agencies in several countries including the UK and Australia.
