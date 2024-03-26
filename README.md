@@ -8,7 +8,7 @@ Here is a list of the 1337x torrent proxy sites. We tested all of these 1337x pr
 - https://1337x.torrentsbay.org
 - https://1337x.torrentbay.st
 - https://1337x.abcproxy.org
-
+- https://1337x-to.pages.dev
 
 
 Please note that I do not endorse or promote any of these proxy sites or the use of torrents for illegal purposes. I provide this information for educational and informational purposes only. You are responsible for your own actions and consequences of using these sites. Please follow the laws and regulations of your country and respect the rights of content creators. Thank you. 😊
