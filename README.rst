@@ -1,5 +1,5 @@
 ##################
-1337x Proxy - 100% Working 1337x Mirror Sites 2024
+1337x Proxy - 100% Working 1337x Mirror Sites 2025
 ##################
 
 1337x proxies are web proxies specifically designed to connect to 1337x torrents or other torrent sites. 1337x Torrents was closed several times and had to move to avoid legal problems.
@@ -10,7 +10,7 @@ Here is a list of the 1337x torrent proxy sites. We tested all of these 1337x pr
 - https://1337x.proxyninja.net
 - https://1337x.torrentsbay.org
 - https://1337x.torrentbay.st
-- https://1337x.abcproxy.org
+- https://1337x.piratic.org
 
 
 Please note that I do not endorse or promote any of these proxy sites or the use of torrents for illegal purposes. I provide this information for educational and informational purposes only. You are responsible for your own actions and consequences of using these sites. Please follow the laws and regulations of your country and respect the rights of content creators. Thank you. 😊
@@ -42,7 +42,7 @@ Frequently asked questions about 1337x Proxy and 1337x Torrent (FAQ)
 
 There are a few simple steps that you need to take in order to download a 1337x torrent movie.
 
-1. You need to visit the new 2024 1337x torrent site domain (1337x.unbblockninja.com) first.
+1. You need to visit the new 2025 1337x torrent site domain (1337x.unbblockninja.com) first.
 
 2. Then you have to hit the search bar and look for the movie you want to download on the 1337x proxy.
 
